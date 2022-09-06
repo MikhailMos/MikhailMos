@@ -18,9 +18,9 @@
 ### Languages:
 
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons/C.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://learn.javascript.ru/" target="_blank" rel="noreferrer"> <img src="icons/js_node.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="icons/markdown-white.svg" alt="python" width="60" height="40"/> </a> 
 </p>
