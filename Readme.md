@@ -3,7 +3,7 @@
 
 [![codewars](https://www.codewars.com/users/MikhailMos/badges/small)](https://www.codewars.com/users/MikhailMos)
 
--   🌱 I’m currently learning **Python, web**
+-   🌱 I’m currently learning **web, С++**
 
 -   📫 How to reach me **zulus797@gmail.com**
 
@@ -23,6 +23,7 @@
 <a href="https://learn.javascript.ru/" target="_blank" rel="noreferrer" title="JavaScript"> <img src="icons/js_node.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src="icons/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer" title="Markdown"> <img src="icons/markdown-white.svg" alt="markdown" width="60" height="40"/> </a>
+<a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer" title="C++"> <img src="icons/С++.svg" alt="cpp" width="60" height="40"/> </a>
 </p>
 
 ### Tools:
