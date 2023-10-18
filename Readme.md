@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mikhail </h1>
-<h3 align="center">Computer science student and IT news writer</h3>
+<h3 align="center">About me</h3>
 
 [![codewars](https://www.codewars.com/users/MikhailMos/badges/small)](https://www.codewars.com/users/MikhailMos)
 
