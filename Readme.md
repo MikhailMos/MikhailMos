@@ -22,7 +22,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML"> <img src="icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://learn.javascript.ru/" target="_blank" rel="noreferrer" title="JavaScript"> <img src="icons/js_node.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src="icons/python.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer" title="Markdown"> <img src="icons/markdown-white.svg" alt="python" width="60" height="40"/> </a> 
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer" title="Markdown"> <img src="icons/markdown-white.svg" alt="markdown" width="60" height="40"/> </a>
 </p>
 
 ### Tools:
