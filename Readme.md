@@ -7,7 +7,7 @@
 
 -   📫 How to reach me **zulus797@gmail.com**
 
--   🌍 I speak Russian (native), English (B2)
+-   🌍 I speak Russian (native), English (B1)
 
 ### Connect with me:
 
