@@ -39,3 +39,5 @@
 ### My statistics:
 
 [![codewars](https://www.codewars.com/users/MikhailMos/badges/small)](https://www.codewars.com/users/MikhailMos)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailMos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
